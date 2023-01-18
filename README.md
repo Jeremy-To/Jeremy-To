@@ -7,8 +7,8 @@ I'm Jérémy, front end developer from France.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
-- ⚙️ React
-- 👁️ CSS
+- ⚙️ React, Redux
+- 👁️ CSS, Tailwind, Scss
 
 ## Contact
 - [jeremyto](https://jeremyto.com)
