@@ -3,7 +3,7 @@
 </h1>
 
 ## Hey! 👋
-I'm Jérémy, front end developer from France.
+I'm Jérémy, developer from France.
 
 ## Skills
 - 👨‍💻 TypeScript, JavaScript
@@ -12,4 +12,4 @@ I'm Jérémy, front end developer from France.
 
 ## Contact
 - [jeremyto](https://jeremyto.com)
-- [Jérémy TO](https://www.linkedin.com/in/jérémy-to-b13227253/) on Linkedin
+- [Jérémy TO](https://www.linkedin.com/in/jérémy-to/) on Linkedin
