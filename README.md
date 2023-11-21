@@ -1,13 +1,9 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/Jeremy-To/Jeremy-To/master/name.svg" alt="Jérémy TO" />
-</h1>
-
 ## Hey! 👋
 I'm Jérémy, developer from France.
 
 ---
 
-## Interest In 
+## Interest In 💻
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -26,6 +22,6 @@ I'm Jérémy, developer from France.
 
 ---
 
-## Contact
+## Contact 📬
 - [jeremyto](https://jeremyto.com)
 - [Jérémy TO](https://www.linkedin.com/in/jérémy-to/) on Linkedin
