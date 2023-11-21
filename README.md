@@ -5,10 +5,9 @@
 ## Hey! 👋
 I'm Jérémy, developer from France.
 
-## Skills
-- 👨‍💻 TypeScript, JavaScript
-- ⚙️ React, Redux
-- 👁️ CSS, Tailwind, Scss
+## Interest In 
+- 👨‍💻 TypeScript, PHP, Python, Rust, C++
+- ⚙️ React, Symfony
 
 ## Contact
 - [jeremyto](https://jeremyto.com)
