@@ -32,26 +32,16 @@ I focus on **Python**, **TypeScript**, **Go**, and **Rust**, and I work daily wi
 ## 🚀 Featured Projects
 
 ### 🐍 `pcap-analyser`
-> Network packet analyzer written in Rust for efficient `.pcap` file inspection.  
-**Stack**: Rust, Multithreading, CLI
+> Network packet analyzer for efficient `.pcap` file inspection.  
+**Stack**: Python, CLI
 
-### ⚙️ `protocol-backend`
-> Backend system for protocol automation and API interactions.  
-**Stack**: Python (FastAPI), PostgreSQL, Docker
+### ⚙️ `[backend-Defi](https://github.com/Jeremy-To/backend-Defi)`
+> Ethereum contract analyser.  
+**Stack**: Python 
 
-### 🎯 `tft-backend`
-> Backend service for a tactical game dataset (likely TFT / gaming API based).  
-**Stack**: Go or Python, REST, Docker, CI/CD
-
----
-
-## 📦 My DevOps Tools in Action
-
-- **IaC**: Terraform modules for AWS infrastructure provisioning  
-- **Kubernetes**: Helm charts, cluster deployments, service meshes  
-- **CI/CD**: Automated pipelines using GitHub Actions & GitLab CI  
-- **Monitoring**: Prometheus, Grafana, EFK stack  
-- **Security**: Secrets management, IAM policies, container hardening
+### 🎯 `[medolia](https://github.com/Jeremy-To/medolia)`
+> High performance music app made for Android  
+**Stack**: Kotlin
 
 ---
 
@@ -71,4 +61,4 @@ I focus on **Python**, **TypeScript**, **Go**, and **Rust**, and I work daily wi
 
 ---
 
-> *“If it compiles, ship it. If it deploys, automate it.”*
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
