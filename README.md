@@ -55,7 +55,6 @@ I focus on **Python**, **TypeScript**, **Go**, and **Rust**, and I work daily wi
 
 ## 📬 Let's Connect
 
-- 📧 jeremy.to.dev@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/jeremy-to)  
 - 🛠️ [GitHub Projects](https://github.com/jeremy-to?tab=repositories)
 
