@@ -35,11 +35,11 @@ I focus on **Python**, **TypeScript**, **Go**, and **Rust**, and I work daily wi
 > Network packet analyzer for efficient `.pcap` file inspection.  
 **Stack**: Python, CLI
 
-### ⚙️ `[backend-Defi](https://github.com/Jeremy-To/backend-Defi)`
+### ⚙️ [backend-Defi](https://github.com/Jeremy-To/backend-Defi)
 > Ethereum contract analyser.  
 **Stack**: Python 
 
-### 🎯 `[medolia](https://github.com/Jeremy-To/medolia)`
+### 🎯 [medolia](https://github.com/Jeremy-To/medolia)
 > High performance music app made for Android  
 **Stack**: Kotlin
 
